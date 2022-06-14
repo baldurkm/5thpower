@@ -7,12 +7,9 @@ from fuzzywuzzy import process
 import sys
 from os import path
 
-session = None
-try:
-	session = sys.argv[1]
-except:
-        sys.exit(0)
-	
+session = input('Löggjafarþing> ')
+
+
 
 def strip_url(url):
 	return url.replace('/', '-').replace(':','-').replace('?','-').replace('=','-')
@@ -266,7 +263,7 @@ with open(u'nefndir'+str(session)+'.txt', 'w') as f:
 
 
 			#stundvísi = fundur_settur - mp[1]
-			#print(fundur['fundur_settur'])
+			print(fundur['fundur_settur'])
 			for m in fundur['mps']:
 				if m[0] == mp:
 					#fundur['fundur_settur'] = datetime.strptime('2020-01-16T13:30:00', '%Y-%m-%dT%H:%M:%S')
@@ -275,7 +272,7 @@ with open(u'nefndir'+str(session)+'.txt', 'w') as f:
 					maettur = datetime.strptime(m[1], '%H:%M')
 					d = maettur - settur
 					if d > timedelta(minutes=0):
-						#print(fundur['dagsetning'] + ': ' + str(d))
+						print(fundur['dagsetning'] + ': ' + str(d))
 						#f.write(';;;;'+fundur['dagsetning']+' '+str(d)+'\n')
 						late += d
 			

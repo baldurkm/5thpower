@@ -1,0 +1,53 @@
+þingmaður,Vænt mæting,Fjöldi mætinga,Seint
+Arndís Anna Kristínardóttir Gunnarsdóttir,73,119,11:59:00
+Bergþór Ólason,33,27,1:05:00
+Birgir Þórarinsson,48,48,0:43:00
+Bryndís Haraldsdóttir,59,91,2:49:00
+Eyjólfur Ármannsson,50,74,4:45:00
+Jakob Frímann Magnússon,9,55,1:15:00
+Jódís Skúladóttir,78,65,0:37:00
+Jóhann Friðrik Friðriksson,71,99,2:20:00
+Lilja Rannveig Sigurgeirsdóttir,50,88,0:41:00
+Logi Einarsson,75,75,0:05:00
+Berglind Ósk Guðmundsdóttir,23,55,1:35:00
+Bjarkey Olsen Gunnarsdóttir,29,78,0:12:00
+Gísli Rafn Ólafsson,20,48,0:07:00
+Hanna Katrín Friðriksson,23,46,6:23:00
+Haraldur Benediktsson,80,75,0:00:00
+Hildur Sverrisdóttir,37,62,1:54:00
+Inga Sæland,51,54,3:53:00
+Stefán Vagn Stefánsson,0,74,1:57:00
+Tómas A. Tómasson,5,3,0:00:00
+Þórarinn Ingi Pétursson,43,51,1:25:00
+Diljá Mist Einarsdóttir,65,96,6:06:00
+Guðbrandur Einarsson,6,72,8:09:00
+Guðrún Hafsteinsdóttir,0,91,2:41:00
+Hafdís Hrönn Hafsteinsdóttir,0,80,5:11:00
+Jóhann Páll Jóhannsson,25,37,1:35:00
+Steinunn Þóra Árnadóttir,38,74,1:46:00
+Ágúst Bjarni Garðarsson,40,44,2:25:00
+Ásthildur Lóa Þórsdóttir,66,66,0:57:00
+Þórhildur Sunna Ævarsdóttir,29,35,1:40:00
+Björn Leví Gunnarsson,80,87,0:10:00
+Ingibjörg Isaksen,0,44,1:03:00
+Kristrún Frostadóttir,29,53,0:00:00
+Vilhjálmur Árnason,37,120,12:41:00
+Birgir Ármannsson,37,37,0:00:00
+Líneik Anna Sævarsdóttir,65,94,0:17:00
+Oddný G. Harðardóttir,37,41,1:12:00
+Halldóra Mogensen,24,46,1:54:00
+Njáll Trausti Friðbertsson,25,60,4:06:00
+Orri Páll Jóhannsson,0,44,2:30:00
+Sigmar Guðmundsson,6,69,0:45:00
+Sigmundur Davíð Gunnlaugsson,18,14,1:40:00
+Bjarni Jónsson,47,42,0:12:00
+Andrés Ingi Jónsson,32,34,1:17:00
+Guðmundur Ingi Kristinsson,21,38,0:55:00
+Ásmundur Friðriksson,15,41,2:18:00
+Þorbjörg Sigríður Gunnlaugsdóttir,4,49,0:14:00
+Þorgerður K. Gunnarsdóttir,6,18,0:00:00
+Helga Vala Helgadóttir,26,31,1:16:00
+Svandís Svavarsdóttir,37,37,6:19:00
+Þórunn Sveinbjarnardóttir,52,95,1:05:00
+Halla Signý Kristjánsdóttir,0,78,1:06:00
+Óli Björn Kárason,12,44,0:00:00
