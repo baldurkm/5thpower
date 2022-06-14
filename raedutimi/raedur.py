@@ -5,7 +5,7 @@ import xmltodict
 from datetime import datetime
 import re
 
-session = 151
+session = int(input("Löggjafarþing> "))
 url = 'http://www.althingi.is/altext/xml/raedulisti/?lthing='
 
 def calc_speech(start, end, speech):

@@ -4,6 +4,8 @@ import requests
 import xmltodict
 from bs4 import BeautifulSoup
 
+session = int(input("Löggjafarþing> "))
+
 #Ná í öll mál
 def get_mal(session):
 	url = 'https://www.althingi.is/altext/xml/thingmalalisti/?lthing=' +str(session)

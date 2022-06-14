@@ -11,7 +11,8 @@ session = None
 try:
 	session = sys.argv[1]
 except:
-	sys.exit(0)
+        sys.exit(0)
+	
 
 def strip_url(url):
 	return url.replace('/', '-').replace(':','-').replace('?','-').replace('=','-')
